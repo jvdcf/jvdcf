@@ -6,6 +6,9 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 
 ---
 
+### Personal Projects:
+- [Uni Agenda (in progress)](https://github.com/jvdcf/uni_agenda)
+
 ### University Projects:
 - [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
   > Course: Programming (L.EIC009)
