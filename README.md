@@ -10,6 +10,9 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 - [Uni Agenda (in progress)](https://github.com/jvdcf/uni_agenda)
 
 ### University Projects:
+> [!NOTE]  
+> The repository ["feup"](https://github.com/jvdcf/feup) shows all the work made until now.
+
 - [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
   > Course: Programming (L.EIC009)
 
