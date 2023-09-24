@@ -7,11 +7,11 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 ---
 
 ### Personal Projects:
-- [Uni Agenda (in progress)](https://github.com/jvdcf/uni_agenda)
+- [Uni Agenda](https://github.com/jvdcf/uni_agenda) (in progress)
 
 ### University Projects:
-> [!NOTE]  
-> The repository ["feup"](https://github.com/jvdcf/feup) shows all the work made until now.
+  
+- [**Index of the work done until now**](https://github.com/jvdcf/feup)
 
 - [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
   > Course: Programming (L.EIC009)
