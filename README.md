@@ -16,5 +16,8 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 - [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
   > Course: Programming (L.EIC009)
 
+- [Efficient shedule manager](https://github.com/jvdcf/aed-schedules)
+  > Course: Algorithms and Data Structures (L.EIC011)
+
 ### Stats:
 <img src="https://www.codewars.com/users/Ezrea1y/badges/large">
