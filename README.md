@@ -13,11 +13,14 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
   
 - [**Index of the work done until now**](https://github.com/jvdcf/feup)
 
-- [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
-  > Course: Programming (L.EIC009)
+- Casino database
+  > Course: Databases (L.EIC012)
 
 - [Efficient shedule manager](https://github.com/jvdcf/aed-schedules)
   > Course: Algorithms and Data Structures (L.EIC011)
+
+- [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
+  > Course: Programming (L.EIC009)
 
 ### Stats:
 <img src="https://www.codewars.com/users/Ezrea1y/badges/large">
