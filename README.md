@@ -13,6 +13,12 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
   
 - [**Index of the work done until now**](https://github.com/jvdcf/feup)
 
+- Air Travel Flight Management System
+  > Course: Algorithms and Data Structures (L.EIC011)
+
+- Chess game using Lanterna (Java)
+  > Course: Software Design and Testing Laboratory (L.EIC014)
+
 - Casino database
   > Course: Databases (L.EIC012)
 
