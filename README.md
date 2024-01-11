@@ -6,8 +6,9 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 
 ---
 
-### Personal Projects:
-- [Uni Agenda](https://github.com/jvdcf/uni_agenda) (in progress)
+> [!NOTE]
+> **Interested** in my work?  
+> Go to [@jvdcf-dev](https://github.com/jvdcf-dev): my professional account.
 
 ### University Projects:
   
@@ -27,6 +28,3 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 
 - [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
   > Course: Programming (L.EIC009)
-
-### Stats:
-<img src="https://www.codewars.com/users/Ezrea1y/badges/large">
