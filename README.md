@@ -14,10 +14,13 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
   
 - [**Index of the work done until now**](https://github.com/jvdcf/feup)
 
+- Analysis Tool for Water Supply Management
+  > Course: Algorithm Design (L.EIC016)
+
 - [Air Travel Flight Management System](https://github.com/jvdcf/aed-travels)
   > Course: Algorithms and Data Structures (L.EIC011)
 
-- [Chess game using Lanterna (Java)](https://github.com/jvdcf/project-l02gr08)
+- Chess game using Lanterna (Java)
   > Course: Software Design and Testing Laboratory (L.EIC014)
 
 - [Casino database](https://github.com/jvdcf/feup/tree/main/Projects/BD)
@@ -26,5 +29,5 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 - [Efficient shedule manager](https://github.com/jvdcf/aed-schedules)
   > Course: Algorithms and Data Structures (L.EIC011)
 
-- [Image manipulation library written in C++](https://github.com/guilherme-ds-matos/ProgProj)
+- Image manipulation library written in C++
   > Course: Programming (L.EIC009)
