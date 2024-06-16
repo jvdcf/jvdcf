@@ -10,36 +10,15 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 > **Interested** in my work?  
 > Go to [@jvdcf-dev](https://github.com/jvdcf-dev): my professional account.
 
-### University Projects:
-  
-- [**Index of the work done until now**](https://github.com/jvdcf/feup)
-
-- [Battleship game in Minix using custom built drivers](https://github.com/jvdcf/feup/tree/main/Projects/LC)
-  > Course: Computer Laboratory (L.EIC018)
-
-- [Android app that offers structure and organization for neurodivergent students (Flutter/Firebase)](https://github.com/jvdcf/feup/tree/main/Projects/ES)
-  > Course: Software Engineering (L.EIC017)
-
-- [Website for selling second-hand products (HTML/CSS/PHP/JavaScript/SQLite)](https://github.com/jvdcf/feup/tree/main/Projects/LTW)
-  > Course: Web Languages and Tecnologies (L.EIC019)
-
-- [Travelling Salesperson problems in a delivery context](https://github.com/jvdcf/da-salesperson)
-  > Course: Algorithm Design (L.EIC016)
-
-- [Max Flow problems in a Water Supply Management](https://github.com/jvdcf/da-watersupply)
-  > Course: Algorithm Design (L.EIC016)
-
-- [Air Travel System using graph algoritms](https://github.com/jvdcf/aed-travels)
-  > Course: Algorithms and Data Structures (L.EIC011)
-
-- [Chess game using Lanterna (Java)](https://github.com/jvdcf/feup/tree/main/Projects/LDTS)
-  > Course: Software Design and Testing Laboratory (L.EIC014)
-
-- [Casino database (SQLite)](https://github.com/jvdcf/feup/tree/main/Projects/BD)
-  > Course: Databases (L.EIC012)
-
-- [Efficient shedule manager](https://github.com/jvdcf/aed-schedules)
-  > Course: Algorithms and Data Structures (L.EIC011)
-
-- [Image manipulation library (C++)](https://github.com/jvdcf/feup/tree/main/Projects/Prog)
-  > Course: Programming (L.EIC009)
+| University Project | Concepts and Tools | UC | Repo |
+| ------------------ | ------------------ | -- | ---- |
+| **Battleship multiplayer game** | Drivers, Interruptions and polling, Minix, C, Doxygen | LC | [📁](https://github.com/jvdcf/feup/tree/main/Projects/LC)
+| **Neurochrono: structure for neurodivergent students** | Scrum, Agile, Architectural design, Flutter, Firebase | ES | [📁](https://github.com/jvdcf/feup/tree/main/Projects/ES)
+| **Marketplace for second-hand products** | HTML, CSS, PHP, SQLite, JavaScript, Web Security | LTW | [📁](https://github.com/jvdcf/feup/tree/main/Projects/LTW)
+| **Routing algorithms in a delivery context** | TSP, Approximation algorithms, C++, Doxygen | DA | [🔗](https://github.com/jvdcf/da-salesperson)
+| **Water supply management** | Max flow of a graph, C++, Doxygen | DA | [🔗](https://github.com/jvdcf/da-watersupply)
+| **Air travel system** | Graph algorithms, Data structures, C++, Doxygen | AED | [🔗](https://github.com/jvdcf/aed-travels)
+| **Chess game in a TUI** | Architectural design, Unit testing, Java | LDTS | [📁](https://github.com/jvdcf/feup/tree/main/Projects/LDTS)
+| **Casino database** | Relational database, UML, SQLite | BD | [📁](https://github.com/jvdcf/feup/tree/main/Projects/BD)
+| **Efficient schedule manager** | Data structures, C++, Doxygen | AED | [🔗](https://github.com/jvdcf/aed-schedules)
+| **Image manipulation library** | Object Oriented Programming, C++ | Prog. | [📁](https://github.com/jvdcf/feup/tree/main/Projects/Prog)
