@@ -14,6 +14,12 @@ I am a Portuguese student at the Faculty of Engineering of the University of Por
 
 | University Project | Concepts and Tools | UC | Repo |
 | ------------------ | ------------------ | -- | ---- |
+| **Fire fighting simulation** | Textures, Shaders, WebGL, JavaScript | CG | [📁](https://github.com/jvdcf/feup/tree/main/Projects/CG)
+| **Java-- to Java bytecode compiler** | Compiler, Java, ANTLR, Jasmin | C | [📁](https://github.com/jvdcf/feup/tree/main/Projects/C)
+| **Chat server and client with Ollama integration** | Distributed Computing, Java | CPD | [📁](https://github.com/jvdcf/feup/tree/main/Projects/CPD/assign2)
+| **Diabetes detection using ML** | Machine Learning, Linfa, Rust | IA | [📁](https://github.com/jvdcf/feup/tree/main/Projects/IA/ai-diabetes)
+| **Parallel Programming Benchmarks** | Parallel Computing, OpenMP, C, Rust | CPD | [📁](https://github.com/jvdcf/feup/tree/main/Projects/CPD/assign1)
+| **Woodblocks: a puzzle game with AI solvers** | Search algorithms, Rust, Bevy | IA | [📁](https://github.com/jvdcf/feup/tree/main/Projects/IA/ai-woodblocks)
 | **Collapse: a board game in the terminal** | Logic Programming, Prolog, PHUnit | PFL | [🔗](https://github.com/jvdcf/pfl-prolog)
 | **Deployment and study of a network** | Networks, FTP, C, Sockets | RC | [📁](https://github.com/jvdcf/feup/tree/main/Projects/RC/Lab2%3A%20Network)
 | **SyncTask WebApp: Management for small teams** | Laravel, PostgreSQL, PHP, Bootstrap, Docker | LBAW | [📁](https://github.com/jvdcf/feup/tree/main/Projects/LBAW)
